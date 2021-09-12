@@ -1,0 +1,4 @@
+mkdir content/blog/$1
+touch content/blog/$1/index.md
+
+echo title: $1 "\n"date $(date) "\ndescription: \n----------" >> content/blog/$1/index.md
