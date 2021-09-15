@@ -7,7 +7,7 @@ Far away, near a small city-town. Mostly unknown. Bhalla is a village with a cou
 
 I'll leave the coordinates here but do go check it out yourself.
 
-Coordinates: 33°25'19.4"N 73°25'08.1"E
+Coordinates: `33°25'19.4"N 73°25'08.1"E`
 
 Near: Kallar Sayedan, Rawalpindi, Punjab, Pakistan
 
