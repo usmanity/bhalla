@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Bhalla - a village"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Far away, near a small city-town. Mostly unknown. Bhalla is a village with a couple of hundred people. The sun comes out from the east, sets…","fields":{"slug":"/intro/"},"frontmatter":{"date":"September 12, 2021","title":"Bhalla","description":"An introduction"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383"]}
